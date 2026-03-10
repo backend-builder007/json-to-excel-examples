@@ -5,6 +5,8 @@ This repository contains sample JSON files and example structures that can be co
 Tool:
 https://jsontoexcel.pro
 
+![JSON to Excel converter](og-image.png)
+
 ## What the tool does
 
 - Converts JSON to Excel (.xlsx)
